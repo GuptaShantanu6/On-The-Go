@@ -1,0 +1,17 @@
+.example-container div{
+  background: grey;
+  border-radius: 1.075rem;
+  width: 5.375rem;
+  height: 1.575rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.readMore {
+    font-size: 0.75rem;
+    color: white !important;
+    text-decoration: none !important;
+}
